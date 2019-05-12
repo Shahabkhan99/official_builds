@@ -1,0 +1,172 @@
+{
+    "default": [
+        {
+            "title": "Magisk",
+            "summary": "Installer zip",
+            "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.1/Magisk-v18.1.zip"
+        },
+        {
+            "title": "Magisk",
+            "summary": "Uninstaller zip",
+            "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.1/Magisk-uninstaller-20190204.zip"
+        },
+        {
+           "title": "Magisk",
+            "summary": "Magisk Manager App",
+            "url": "https://github.com/topjohnwu/Magisk/releases/download/manager-v7.1.1/MagiskManager-v7.1.1.apk"
+        }
+
+    ],
+    "tissot": [
+        {
+            "title": "Jan Firmware",
+            "summary": "V10.0.4.0.PDHMIXM",
+            "url": "https://drive.google.com/open?id=1AIOYOrI_pRazDxRk-b-c6BMfz627OmkH"
+        },
+        {
+            "title": "Aex tissot telegram group",
+            "summary": "A group specifically for aex tissot users, please join for faster support.",
+            "url": "https://t.me/aextissot"
+        }
+
+    ],
+    "santoni": [
+        {   "title": "Gabriel Kernel",
+            "summary": "CPU8998, CPU8940, EAS builds",
+            "url": "https://androidfilehost.com/?w=files&flid=283397"
+        },
+        {   "title": "Nexus Kernel",
+            "summary": "Recommended",
+            "url": "https://t.me/psd007"
+        },
+        {   "title": "AEX Santoni Chat Room",
+            "summary": "Telegram",
+            "url": "https://t.me/AEXsantoni"
+        },
+        {
+            "title": "Firmware",
+            "summary": "Global Developer",
+            "url": "https://sourceforge.net/projects/xiaomi-firmware-updater/files/Developer/"
+        },
+        {
+            "title": "Firmware",
+            "summary": "Global Stable",
+            "url": "https://sourceforge.net/projects/xiaomi-firmware-updater/files/Stable/V10/"
+        },
+        {
+            "title": "Google Camera",
+            "summary": "Scrubber's Pixel 2XL",
+            "url": "https://www.celsoazevedo.com/files/android/google-camera/f/scrubber_GCameraP2XL.apk"
+        },
+        {
+            "title": "Recovery",
+            "summary": "OrangeFox Recovery",
+            "url": "https://sourceforge.net/projects/orangefox/files/santoni/"
+        }
+   ],
+    "x2": [
+        {   "title": "EUI-Audio-magisk",
+            "summary": "EUi Audio Magisk-Module",
+            "url": "https://androidfilehost.com/?fid=1395089523397949415"
+        }
+   ],
+    "kenzo": [
+        {   "title": "Escrima kernel",
+            "summary": "Flashable zip of stock kernel. Also available with oldjackfix patch",
+            "url": "https://www.androidfilehost.com/?w=files&flid=278625"
+        },
+        {   "title": "Latest MIUI 10 Firmware",
+            "summary": "Grab latest MIUI firmware for kenzo or kate from here",
+            "url": "https://basketbuild.com/devs/yshalsager/Xiaomi-Firmware/"
+        },
+        {   "title": "TheStrix's 7.7.6 Firmware",
+            "summary": "Get TheStrix's MIUI 7.7.6 firmware for kenzo from here",
+            "url": "https://androidfilehost.com/?fid=817550096634784493"
+        },
+        {   "title": "Static noise fix for Sony MDR EX-150AP",
+            "summary": "Download this patch to fix the static sound in Sony MDR EX-150AP earphones",
+            "url": "https://androidfilehost.com/?fid=1395089523397912996"
+        },
+        {   "title": "Custom Android Pie UI sounds",
+            "summary": "My custom made package for UI sounds, including ringtones, alarm, notifications etc. Kanged zip skeleton though",
+            "url":"https://androidfilehost.com/?fid=1395089523397912994"
+        },
+        {   "title": "Pzzqt's boot image clean script",
+            "summary": "Use this script to clean up your dirty/modified boot image (Kernel)",
+            "url": "https://androidfilehost.com/?fid=1395089523397912997"
+        }
+   ],
+    "sagit": [
+        {
+            "title":"TWRP",
+            "summary":"Recommended TWRP 3.2.3",
+            "url":"https://github.com/xiaomi-msm8998/twrp_device_xiaomi_sagit/releases/tag/3.2.3"
+        },
+        {
+            "title":"Firmware",
+            "summary":"Miui Pie Beta 9.5.8",
+            "url":"https://drive.google.com/file/d/1qpNYNaQEHK-9H4T20MDW5yGW-U6bHL1p/view?usp=drivesdk"
+        },
+        {
+            "title":"GApps",
+            "summary":"OpenGApps | Use arm64 & android 9.0 ",
+            "url":"https://opengapps.org/"
+        },
+        {
+            "title":"Telegram",
+            "summary":"Xiaomi Mi 6 specific AospExtended Group",
+            "url":"https://www.t.me/aexmi6"
+        },
+        {
+            "title":"Telegram",
+            "summary":"General Xiaomi Mi 6 Group",
+            "url":"https://t.me/joinchat/IcEq5ELELI-hHKBYqm9Tfg"
+        },
+        {
+            "title":"Telegram",
+            "summary":"General Xiaomi Mi 6 Announcement Channel",
+            "url":"https://t.me/mi6arsenal"
+        }
+   ],
+    "sanders": [
+        {
+            "title":"Telegram",
+            "summary":"G5S+ BR OFICIAL",
+            "url":"https://t.me/BRsanders"
+        },
+        {
+            "title":"GApps",
+            "summary":"OpenGApps arm64 & android 9.0 ",
+            "url":"https://opengapps.org/"
+        }
+    ],
+     "tulip": [
+        {
+            "title": "Get latest firmware",
+            "summary": "Keep your firmware up to date thanks to the XiaomiFirmwareUpdater project",
+            "url": "https://xiaomifirmwareupdater.com/#Developer%23tulip"
+        },
+        {
+            "title": "Get TWRP",
+            "summary": "Keep your recovery up to date",
+            "url": "https://twrp.me/xiaomi/xiaomiredminote6.html"
+        },
+        {
+            "title": "Feedback group for Redmi Note 6 Pro",
+            "summary": "Keep in touch with other users and the developer!",
+            "url": "https://t.me/aex_tulip"
+        }
+    ],
+    "zenfone3": [
+        {
+            "title": "Telegram",
+            "summary": "ASUS Zenfone 3 - Brasil",
+            "url": "https://t.me/ASUS_Zenfone3BR"
+        },
+        {
+            "title": "Telegram",
+            "summary": "ASUS ZenFone 3 Development",
+            "url": "https://t.me/Zenfone3_ASUS"
+        }
+    ]
+}
