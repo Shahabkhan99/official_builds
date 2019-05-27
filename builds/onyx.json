@@ -5,3 +5,17 @@
       }
    ]
 }
+{
+      "name":"Oneplus X",
+      "brand":"Oneplus",
+      "codename":"Onyx",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Shahab Khan",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4639231",
+            "xda_thread":"https://forum.xda-developers.com/oneplus-x/development/rom-aosp-extended-rom-v6-3-t3909017"
+         }
+      ]
+{  
