@@ -1,17 +1,15 @@
-{
-    "pie": [
-        {
-            "file_name": "AospExtended-v6.5-onyx-20191130-1841-OFFICIAL.zip"
-        },
-        {
-            "file_name": "AospExtended-v6.5-onyx-20191230-1727-OFFICIAL.zip"
-        }
-    ]
-},
-
-
 [
- {
+   {
+      "pie":[
+         {
+            "file_name":"AospExtended-v6.5-onyx-20191130-1841-OFFICIAL.zip"
+         },
+         {
+            "file_name":"AospExtended-v6.5-onyx-20191230-1727-OFFICIAL.zip"
+         }
+      ]
+   },
+   {
       "name":"Oneplus X",
       "brand":"Oneplus",
       "codename":"Onyx",
@@ -23,12 +21,6 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=4639231",
             "xda_thread":"https://forum.xda-developers.com/oneplus-x/development/rom-aosp-extended-rom-v6-3-t3909017"
          }
-     ]    
-  }
-] 
-
-
-
-
-
-
+      ]
+   }
+]
