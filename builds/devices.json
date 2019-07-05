@@ -12,3 +12,18 @@
       }
    ]
 }
+
+
+{
+  "pie":[
+           {
+             "file_name": "AospExtended-v6.6-onyx-20191230-0323-OFFICIAL.zip"
+           },
+           {
+            "file_name": "AospExtended-v6.6-onyx-20191231-0322-OFFICIAL.zip"
+           },
+           {
+            "file_name": "AospExtended-v6.6-onyx-20191229-1727-OFFICIAL.zip"
+           }
+        ]
+}
